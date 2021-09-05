@@ -1,6 +1,6 @@
 {
   "name": "receipt-app",
-  "homepage": "https://marcosandri-dev.github.io/receipt-app",
+  "homepage": "https://marcosandri-dev.github.io/receipt-app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
