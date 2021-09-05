@@ -30,10 +30,12 @@
                 "tsx": "never"
             }
         ],
+        "linebreak-style": "off",
         "no-use-before-define": "off",
         "@typescript-eslint/no-use-before-define": [
             "error"
         ],
+        "react/prop-types": "off",
         "react/jsx-filename-extension": [
             2,
             {

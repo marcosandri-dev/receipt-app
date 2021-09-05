@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "superMarket": "Gulliver",
+        "date": "03/09/2021",
+        "products": [
+            {
+                "id": "11",
+                "name": "Lasagne Funghi Rana",
+                "quantity": "1",
+                "fullPrice": "3.99",
+                "discountedPrice": "1.99",
+                "discountNetCut": "2.00"
+            },
+            {
+                "id": "12",
+                "name": "Prosciutto Crudo Fresco Salumi",
+                "quantity": "2",
+                "fullPrice": "3.59",
+                "discountedPrice": "1.99",
+                "discountNetCut": "1.60"
+            }
+        ],
+        "total": "3.98"
+    },
+    {
+        "id": "2",
+        "superMarket": "Gulliver",
+        "date": "03/09/2021",
+        "products": [
+            {
+                "id": "21",
+                "name": "Lasagne Funghi Rana",
+                "quantity": "1",
+                "fullPrice": "3.99",
+                "discountedPrice": "1.99",
+                "discountNetCut": "2.00"
+            }
+        ],
+        "total": "1.99"
+    },
+    {
+        "id": "3",
+        "superMarket": "Gulliver",
+        "date": "03/09/2021",
+        "products": [
+            {
+                "id": "31",
+                "name": "Lasagne Funghi Rana",
+                "quantity": "1",
+                "fullPrice": "3.99",
+                "discountedPrice": "1.99",
+                "discountNetCut": "2.00"
+            }
+        ],
+        "total": "1.99"
+    }
+]
